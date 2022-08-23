@@ -1,0 +1,1 @@
+# rails_tutorial_sample_app_7th_ed
